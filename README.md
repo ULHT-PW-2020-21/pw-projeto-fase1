@@ -56,13 +56,14 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 | Etiquetas | HTML5	main, header, article, footer, figure... |
 | Animações | Foram feitas animações usando keyframes que permite … | ... |
 
-*  **R30. Commits**: Deverá ser incluida uma figura, extraida do GitHub do vosso projeto (/graphs/contributors), onde se mostra o histórico e volume de contribuições dos commits feitos pelos vários membros do grupo ao longo do desenvolvimento do projeto. Tratando-se de um projeto de grupo, ambos os membros devem contribuir equilibradamente no seu desenvolvimento. Deverão usar o GitHub desde o início, sincronizando cada vez que fazem uma mudanças por forma a criar um histórico.
-*  **R31.	Video de apresentação**: Inclua na página sobre este website um vídeo de 2 minutos a mostrar o website, seu leyout, mostrar a responsividade deste, a falar sobre as tecnicas empregues. Mostre também o HTML, a sua estrutura, e o ficheiro CSS, explicando alguns seletores e seus efeitos na renderização final. Para fazer o vídeo pode usar por exemplo a aplicação OBS.
+* **R30.	Video de apresentação**: Inclua na página sobre este website um vídeo de 2 minutos a mostrar o website, seu layout, mostrar a responsividade deste, a falar sobre as tecnicas empregues. Mostre também o HTML, a sua estrutura, e o ficheiro CSS, explicando alguns seletores e seus efeitos na renderização final. Para fazer o vídeo pode usar por exemplo a aplicação OBS.
 
+* **R31.	Anonimato**: Não deverá haver no projeto nem link referências aos nomes dos autores do projeto, visto haver uma componente de avaliação anónima que será feita pelos pares.
+  
+## SUBMISSÃO e AVALIAÇÂO
 
-## SUBMISSÃO
+O prazo de entrega do projeto é 12 de abril.
 
-O projeto deverá estar concluido na semana de 12 de abril, sendo avaliado na aula prática.
-
-## AVALIAÇÃO
-A avaliação do projeto P1 consiste na congregação das avaliações do cumprimento de cada um dos requisitos listados. O docente poderá interagir na sua avaliação com os alunos durante a aula prática. A avaliação dos membros do grupo poderá ser diferenciada.
+A avaliação do projeto terá duas componentes:
+* avaliação pelos docentes, baseada nos requisitos listados anteriormente (60%).
+* avaliação por pares, feita por colegas, de acordo com um conjunto de critérios que serão explicitados (40%).
