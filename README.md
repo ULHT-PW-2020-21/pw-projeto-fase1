@@ -16,18 +16,18 @@ Nesta UC desenvolverá um projeto de uma aplicação Web sobre um tópico à sua
 ## REQUISITOS
 O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 
-* **R1.	Originalidade**: o website deve ser inteiramente desenvolvido pelos membros do grupo. Devem seguir um estilo e gosto pessoal. Deverá ter elementos originais e diferentes dos fornecidos e feitos nos laboratórios. Não deverá usar bootstrap, nem trechos de código extraídos da Internet ֎
-* **R2.	Proficiência**: deverá compreender profundamente o que cada linha do código faz. Na apresentação e discussão do trabalho, deverá ser capaz de explicar, implementar novamente ou alterar qualquer aspeto do site ֎
-* **R3.	Estrutura**: O website deverá ter pelo menos 5 páginas Web. As imagens deverão estar numa pasta images. ֎
-* **R4.	No GitHub e online no Heroku**: O website deverá estar num repositório GitHub, e sincronizado e a correr no Heroku. ֎
-* **R5.	HTML5**: Todos os ficheiros HTML deverão estar no formato HTML5 e o head adequadamente formatado e detalhado. Utilize pelo menos 7 etiquetas HTML5 (article, main, nav, aside, header, footer, figure). Evitar a utilização das etiquetas div e span. ֎
-* **R5.	Layout CSS Grid**: O website deverá ter os seus layouts construídos com CSS grid e Flexbox. ֎
-* **R6.	Layout Fluido e responsivo**: O layout deverá ser flúido e responsivo, usando media queries, com layouts consoante a dimensão do ecrã (PC ou smartphone), considerando também a possiblidade de o telemóvel estar em orientação portrait ou landscape. Todos os conteúdos deverão adaptar-se de forma responsiva. Nunca deverão aparecer scrollbars horizontais ou verticais. ֎
-* **R7. Elemento head**: tenha o head formatado com detalhe em cada ficheiro, com pelo menos 4 etiquetas meta a descrever detalhes. ֎
+* **R1.	Originalidade**: o website deve ser inteiramente desenvolvido pelos membros do grupo. Devem seguir um estilo e gosto pessoal. Deverá ter elementos originais e diferentes dos fornecidos e feitos nos laboratórios. Não deverá usar bootstrap, nem trechos de código extraídos da Internet.
+* **R2.	Proficiência**: deverá compreender profundamente o que cada linha do código faz. Na apresentação e discussão do trabalho, deverá ser capaz de explicar, implementar novamente ou alterar qualquer aspeto do site.
+* **R3.	Estrutura**: O website deverá ter pelo menos 5 páginas Web. As imagens deverão estar numa pasta images.
+* **R4.	No GitHub e online no Heroku**: O website deverá estar num repositório GitHub, e sincronizado e a correr no Heroku.
+* **R5.	HTML5**: Todos os ficheiros HTML deverão estar no formato HTML5 e o head adequadamente formatado e detalhado. Utilize pelo menos 7 etiquetas HTML5 (article, main, nav, aside, header, footer, figure). Evitar a utilização das etiquetas div e span.
+* **R5.	Layout CSS Grid**: O website deverá ter os seus layouts construídos com CSS grid e Flexbox.
+* **R6.	Layout Fluido e responsivo**: O layout deverá ser flúido e responsivo, usando media queries, com layouts consoante a dimensão do ecrã (PC ou smartphone), considerando também a possiblidade de o telemóvel estar em orientação portrait ou landscape. Todos os conteúdos deverão adaptar-se de forma responsiva. Nunca deverão aparecer scrollbars horizontais ou verticais.
+* **R7. Elemento head**: tenha o head formatado com detalhe em cada ficheiro, com pelo menos 4 etiquetas meta a descrever detalhes.
 * **R8. Barra de navegação**: especifique um titulo (elemento <title> do head) e crie um ícone para a barra de navegação.
 
 * **R9. Menu**: Crie um menu de navegação configurando com pseudo-classes os links.
-* **R10. CSS**: Deverá usar um único ficheiro CSS externo para estilizar as páginas do website. Deverá utilizar todos os tipos de selectores e deverá fazer composição de seletores. Deverá usar o maior número de propriedades. Os conteúdos das páginas deverão estar estilizados usando CSS, demonstrando todos os conhecimentos adquiridos até agora sobre HTML e CSS. ֎
+* **R10. CSS**: Deverá usar um único ficheiro CSS externo para estilizar as páginas do website. Deverá utilizar todos os tipos de selectores e deverá fazer composição de seletores. Deverá usar o maior número de propriedades. Os conteúdos das páginas deverão estar estilizados usando CSS, demonstrando todos os conhecimentos adquiridos até agora sobre HTML e CSS. 
 * **R11.	Fonte**: Deverá usar uma fonte web Google ( https://fonts.google.com/ ) [1] que disponibiliza uma grande variedade de fontes que funcionam garantidamente [2] em todos os browsers. 
 * **R12.	Cores**: Deverá ter uma coerência de estilo em todas as páginas, usando uma palete de cores de forma coerente em todas as páginas.
 * **R13.	Imagens documentadas**: Todas as imagens deverão estar dentro duma etiqueta figure e ter uma legenda (figcaption) com um título e hiperlink para a fonte de onde foram retiradas. Nalgumas, inclua detalhes dentro de uma etiqueta HTML `<details>`.
