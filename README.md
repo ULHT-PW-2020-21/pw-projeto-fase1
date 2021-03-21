@@ -1,43 +1,46 @@
-# pw-projeto-fase1
+**UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
+ 
+# Programação Web - P1: Projeto fase 1: website responsivo 
 
-Projeto P1 
-OBJECTIVOS
+## ENQUADRAMENTO
+Nesta UC desenvolverá um projeto de uma aplicação Web sobre um tópico à sua escolha. Este estará dividido em três fases de desenvolvimento, P1, P2 e P3:
+* **P1: Website**: website que permite a navegação entre um conjunto de páginas Web com conteúdos digitais estáticos (não se atualizando dinâmicamente) constituídos por texto, imagens, video e audio. O seu design deverá ser responsivo ao tamanho do ecrã. Deverá ser desenvolvido usado exclusivamente HTML e CSS.
+* **P2: Aplicação Web**: aplicação Web desenvolvida do lado do servidor com Django que, tendo como base o website estático desenvolvido em P1, integra elementos iterativos e funcionalidades. Acedida através de um browser, a aplicação estará ligada a uma base de dados integrada que permite uma experiencia interativa especifica ao indivídio que a usa. Deverá permitir referenciar, guardar e aceder a dados através de interfaces customizados. A renderização será feita no backend, recorrendo a templates para layout. Deverá ser desenvolvida em Django, usando Python, que entre outras funcionalidades manipulará uma base de dados interna. 
+* **P3:Aplicação Web full-stack**: aplicação Web desenvolvida em P2 estendida com funcionalidades do lado do cliente para renderização de algumas páginas usando JavaScript. A aplicação ficará com uma arquitetura híbrida, com partes em frontend e outras backend. Será feita integração com Web Services.
+
+## OBJECTIVOS
 * O projeto P1 consiste na criação de um website sobre um tópico à vossa escolha.
-* Deverá demonstrar os conhecimentos adquiridos sobre HTML e CSS na disciplina.  
+* Deverá demonstrar os conhecimentos adquiridos sobre HTML e CSS.  
+* Os conteúdos e o CSS deverão ser totalmente desenvolvidos pelo grupo, não podendo usar Bootstrap nem JavaScript. 
+
+## REQUISITOS
+O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
+
+* **R1.	Estrutura**: O website deverá ter pelo menos 5 páginas Web.
+* **R2. Técnicas usadas**: uma das páginas deverá decrever em detalhe as técnicas usadas para desenvolvimento da aplicação. Nesta deverá integrar:
+    * desenho da árvore que representa a estrutura do website
+    * apresentação dos layouts escolhidos (com imagens) e critérios de responsividade, com media queries.
+    * Tabela de técnicas usadas, que lista todas as etiquetas HTML5 semânticas usadas, seletores e propriedades CSS, media queries, tipos de display usados, animações, efeitos, etc. Inclua os requisitos técnicos listados neste enunciado.
+
+| Carateristicas | Elementos/técnicas | Exemplos |
+| --- | --- | --- |
+| Layouts | Usou-se o CSS grid e CSS flexbox para construção de layouts | ... |
+| Responsividade | Foram usadas media queries que adaptam o layout para telemovel e PC consoante o tamanho da janela do browser. | ... |
+| Seletores | Foram usados seletores de ... | ... |
+| Etiquetas | HTML5	main, header, article, footer, figure... |
+| Animações | Foram feitas animações usando keyframes que permite … | ... |
 
 
-REQUISITOS
-O website desenvolvido deverá satisfazer os requisitos (R) em baixo.
 
-Geral
-R1.	Originalidade: o website deve ser inteiramente desenvolvido por si. Inspire-se se possível no trabalho de design de interação. Deve seguir o seu estilo e gosto pessoal. Deverá ter elementos originais e diferentes dos fornecidos e feitos nos laboratórios anteriores. Não deverá usar bootstrap, nem trechos de código extraídos da Internet ֎
+R18.	Tabela de técnicas usadas: incluir uma tabela que lista todas as etiquetas HTML5 semânticas usadas, media queries, tipos de display usados , animações, efeitos, seletores e propriedades CSS. Podem incluir os requisitos técnicos aqui listados.
+
+
+
+
+
+* R1.	Originalidade: o website deve ser inteiramente desenvolvido por si. Inspire-se se possível no trabalho de design de interação. Deve seguir o seu estilo e gosto pessoal. Deverá ter elementos originais e diferentes dos fornecidos e feitos nos laboratórios anteriores. Não deverá usar bootstrap, nem trechos de código extraídos da Internet ֎
 R2.	Proficiência: deverá compreender profundamente o que cada linha do código faz. Na apresentação e discussão do trabalho, deverá ser capaz de explicar, implementar novamente ou alterar qualquer aspeto do site ֎
 R3.	Online na Web: O website deverá estar disponível na sua área pessoal de aluno da UBI, associado diretamente ao seu URL webx.ubi.pt/~axxxxx. ֎
-R4.	Estrutura: O website deverá ter pelo menos as páginas da figura da estrutura. No portfolio, deverá ter no mínimo 5 tópicos diferentes além do webdesign, um deles sendo de texto (trabalho escrito, com algumas imagens):
-Home
-Sobre mim
-Portfolio
-Webdesign (substitua os títulos lab1, lab2, …. por títulos mais apelativos. Veja os exemplos.)
-Historia com emojis
-O meu primeiro website  
-Website responsivo
-Website usando display grid.
-Animações
-Efeitos em imagens
-Formulários
-Laboratório Multimédia
-Design de Comunicação (I e II)
-Geometria
-Historia da Arte/Design/ Psicologia da Perceção (colocar um pequeno trabalho que tenham feito)
-Design de Interação
-Desenho (I e II, se tiverem trabalhos convosco)
-Desenho Digital
-Projetos pessoais
-Sobre este website
-História
-Estrutura
-Técnicas usadas
-Interesses
 R5.	HTML5: Todos os ficheiros HTML deverão estar no formato HTML5 e o head adequadamente formatado. Utilize pelo menos 7 etiquetas HTML5 (article, main, nav, aside, header, footer, figure). Evitar a utilização das etiquetas div e span. 
 R6.	Layout CSS Grid: O website deverá ter um layout construído com CSS grid. Deverá ter um layout com pelo menos 4 elementos (header, nav, main, footer).
 R7.	Layout Fluido e responsivo: O layout deverá ser flúido e responsivo, usando media queries, com dois layouts consoante a dimensão do ecrã (PC ou smartphone), considerando também o facto de o telemóvel estar em orientação portrait ou landscape. Todos os conteúdos deverão adaptar-se de forma responsiva. Nunca deverão aparecer scrollbars horizontais ou verticais. 
@@ -53,18 +56,7 @@ O meu website
 R15.	Storyboard: colocar desenho(s) (papel e lápis) a explicar como concebeu o website, antes de o fazer em HTML. Como pensou o layout telemóvel e em PC. Como seria o layout com imagens.
 R16.	Mapa do website: incluir desenho da árvore das páginas do seu website, expansão completa do vosso menu e todos submenus (com tudo aberto).
 R17.	Tabela de inventário: incluir uma tabela que lista quantas páginas tem o seu website, quantas imagens, quantos links externos, quantos vídeos, animações, etc.
-R18.	Tabela de técnicas usadas: incluir uma tabela que lista todas as etiquetas HTML5 semânticas usadas, media queries, tipos de display usados (flex, grid), animações, efeitos, seletores e propriedades CSS. Podem incluir os requisitos técnicos aqui listados.
 
-
-Carateristicas	Elementos/técnicas
-Etiquetas HTML5	main, header, article, footer, figure
-Layout	Usou-se o CSS grid para construção de layout 
-Responsividade	Foram usadas media queries que adaptam o layout para telemovel e PC consoante o tamanho da janela do browser.
-Imagens	Foi usada a técnica de CSS flex para disposição das imagens responsiva ao espaço disponivel
-Animações	Foram feitas animações usando keyframes que permite …
-Efeitos	..
-Seletores	Foram usados seletores de classe, tipo, pseudo-classe, …
-Propriedades	
 
 
 Portfólio
