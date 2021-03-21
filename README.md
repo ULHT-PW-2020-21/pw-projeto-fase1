@@ -60,7 +60,7 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 
 * **R31.	Anonimato**: Não deverá haver no projeto nem link referências aos nomes dos autores do projeto, visto haver uma componente de avaliação anónima que será feita pelos pares.
   
-## SUBMISSÃO e AVALIAÇÂO
+## SUBMISSÃO e AVALIAÇÃO
 
 O prazo de entrega do projeto é 12 de abril.
 
