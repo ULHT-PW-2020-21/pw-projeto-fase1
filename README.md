@@ -13,7 +13,7 @@ Nesta UC desenvolverá um projeto de uma aplicação Web sobre um tópico à sua
 * Deverá demonstrar os conhecimentos adquiridos sobre HTML e CSS.  
 * Os conteúdos e o CSS deverão ser totalmente desenvolvidos pelo grupo, não podendo usar Bootstrap nem JavaScript nesta fase.
 
-## REQUISITOS
+## REQUISITOS PARA REALIZAÇÃO DO PROJETO
 O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 
 * **R1.	Originalidade**: o website deve ser inteiramente desenvolvido pelos membros do grupo. Devem seguir um estilo e gosto pessoal. Deverá ter elementos originais e diferentes dos fornecidos e feitos nos laboratórios. Não deverá usar bootstrap, nem trechos de código extraídos da Internet.
