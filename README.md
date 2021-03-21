@@ -16,11 +16,11 @@ Nesta UC desenvolverá um projeto de uma aplicação Web sobre um tópico à sua
 ## REQUISITOS
 O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 
-* **R1.	Estrutura**: O website deverá ter pelo menos 5 páginas Web.
+* **R1.	Estrutura**: O website deverá ter pelo menos 5 páginas Web. ֎
 * **R2. Técnicas usadas**: uma das páginas deverá decrever em detalhe as técnicas usadas para desenvolvimento da aplicação. Nesta deverá integrar:
     * desenho da árvore que representa a estrutura do website
     * apresentação dos layouts escolhidos (com imagens) e critérios de responsividade, com media queries.
-    * Tabela de técnicas usadas, que lista todas as etiquetas HTML5 semânticas usadas, seletores e propriedades CSS, media queries, tipos de display usados, animações, efeitos, etc. Inclua os requisitos técnicos listados neste enunciado.
+    * Tabela de técnicas usadas, que lista todas as etiquetas HTML5 semânticas usadas, seletores e propriedades CSS, media queries, tipos de display usados, animações, efeitos, etc. Inclua os requisitos técnicos listados neste enunciado. Apresenta-se em baixo um exemplo de parte da tabela:
 
 | Carateristicas | Elementos/técnicas | Exemplos |
 | --- | --- | --- |
@@ -30,25 +30,16 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 | Etiquetas | HTML5	main, header, article, footer, figure... |
 | Animações | Foram feitas animações usando keyframes que permite … | ... |
 
-
-
-R18.	Tabela de técnicas usadas: incluir uma tabela que lista todas as etiquetas HTML5 semânticas usadas, media queries, tipos de display usados , animações, efeitos, seletores e propriedades CSS. Podem incluir os requisitos técnicos aqui listados.
-
-
-
-
-
-* R1.	Originalidade: o website deve ser inteiramente desenvolvido por si. Inspire-se se possível no trabalho de design de interação. Deve seguir o seu estilo e gosto pessoal. Deverá ter elementos originais e diferentes dos fornecidos e feitos nos laboratórios anteriores. Não deverá usar bootstrap, nem trechos de código extraídos da Internet ֎
-R2.	Proficiência: deverá compreender profundamente o que cada linha do código faz. Na apresentação e discussão do trabalho, deverá ser capaz de explicar, implementar novamente ou alterar qualquer aspeto do site ֎
-R3.	Online na Web: O website deverá estar disponível na sua área pessoal de aluno da UBI, associado diretamente ao seu URL webx.ubi.pt/~axxxxx. ֎
-R5.	HTML5: Todos os ficheiros HTML deverão estar no formato HTML5 e o head adequadamente formatado. Utilize pelo menos 7 etiquetas HTML5 (article, main, nav, aside, header, footer, figure). Evitar a utilização das etiquetas div e span. 
-R6.	Layout CSS Grid: O website deverá ter um layout construído com CSS grid. Deverá ter um layout com pelo menos 4 elementos (header, nav, main, footer).
-R7.	Layout Fluido e responsivo: O layout deverá ser flúido e responsivo, usando media queries, com dois layouts consoante a dimensão do ecrã (PC ou smartphone), considerando também o facto de o telemóvel estar em orientação portrait ou landscape. Todos os conteúdos deverão adaptar-se de forma responsiva. Nunca deverão aparecer scrollbars horizontais ou verticais. 
-R8.	PHP (requisto opcional): usar PHP para incluir elementos comuns a todos os layouts, em vez de iframe.
-R9.	Head: tenha o head formatado com detalhe em cada ficheiro, com pelo menos 6 etiquetas meta. Crie um icon para a barra do browser.
-R10.	Barra de navegação: crie um ícone e tenha um titulo para a barra de navegação (etiqueta title no head).
-R11.	CSS: Deverá usar um único ficheiro CSS externo para estilizar as páginas do website. Deverá utilizar todos os tipos de selectores e deverá fazer composição de seletores. Deverá usar o maior número de propriedades.
-R12.	Body: formatado pelo CSS externo. 
+* **R3.	Online no Heroku**: O website deverá estar a correr no Heroku. ֎
+* **R1.	Originalidade**: o website deve ser inteiramente desenvolvido pelos membros do grupo. Devem seguir um estilo e gosto pessoal. Deverá ter elementos originais e diferentes dos fornecidos e feitos nos laboratórios. Não deverá usar bootstrap, nem trechos de código extraídos da Internet ֎
+* **R2.	Proficiência**: deverá compreender profundamente o que cada linha do código faz. Na apresentação e discussão do trabalho, deverá ser capaz de explicar, implementar novamente ou alterar qualquer aspeto do site ֎
+* **R5.	HTML5**: Todos os ficheiros HTML deverão estar no formato HTML5 e o head adequadamente formatado e detalhado. Utilize pelo menos 7 etiquetas HTML5 (article, main, nav, aside, header, footer, figure). Evitar a utilização das etiquetas div e span. 
+* **R6.	Layout CSS Grid**: O website deverá ter os seus layouts construídos com CSS grid e Flexbox.
+* **R7.	Layout Fluido e responsivo**: O layout deverá ser flúido e responsivo, usando media queries, com layouts consoante a dimensão do ecrã (PC ou smartphone), considerando também a possiblidade de o telemóvel estar em orientação portrait ou landscape. Todos os conteúdos deverão adaptar-se de forma responsiva. Nunca deverão aparecer scrollbars horizontais ou verticais. 
+* **R9.	Elemento head**: tenha o head formatado com detalhe em cada ficheiro, com pelo menos 4 etiquetas meta a descrever detalhes.
+* **R10.	Barra de navegação**: especifique um titulo (elemento <title> do head) e crie um ícone para a barra de navegação.
+* **R11.	CSS**: Deverá usar um único ficheiro CSS externo para estilizar as páginas do website. Deverá utilizar todos os tipos de selectores e deverá fazer composição de seletores. Deverá usar o maior número de propriedades. 
+* **R12.	Body**: formatado pelo CSS externo. 
 R13.	Fonte: Deverá usar uma fonte web Google ( https://fonts.google.com/ ) [1] que disponibiliza uma grande variedade de fontes raras e especiais que funcionam garantidamente [2] em todos os browsers. 
 R14.	Cores: Deverá ter uma coerência de estilo em todas as páginas, usando uma palete de cores de forma coerente em todas as páginas.
 
