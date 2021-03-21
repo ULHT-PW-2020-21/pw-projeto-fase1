@@ -64,3 +64,5 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 
 O projeto deverá estar concluido na semana de 12 de abril, sendo avaliado na aula prática.
 
+## AVALIAÇÃO
+A avaliação do projeto P1 consiste na congregação das avaliações do cumprimento de cada um dos requisitos listados. O docente poderá interagir na sua avaliação com os alunos durante a aula prática. A avaliação dos membros do grupo poderá ser diferenciada.
