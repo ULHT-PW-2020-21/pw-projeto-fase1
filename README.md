@@ -56,5 +56,11 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 | Etiquetas | HTML5	main, header, article, footer, figure... |
 | Animações | Foram feitas animações usando keyframes que permite … | ... |
 
-*  **R30. Commits**: Deverá ser incluida uma figura, extraida do GitHub, onde se mostra o histórico e volume de contribuições dos commits feitos pelos vários membros do grupo ao longo do desenvolvimento do projeto. Tratando-se de um projeto de grupo, ambos os membros devem contribuir equilibradamente no seu desenvolvimento.
+*  **R30. Commits**: Deverá ser incluida uma figura, extraida do GitHub do vosso projeto (/graphs/contributors), onde se mostra o histórico e volume de contribuições dos commits feitos pelos vários membros do grupo ao longo do desenvolvimento do projeto. Tratando-se de um projeto de grupo, ambos os membros devem contribuir equilibradamente no seu desenvolvimento. Deverão usar o GitHub desde o início, sincronizando cada vez que fazem uma mudanças por forma a criar um histórico.
 *  **R31.	Video de apresentação**: Inclua na página sobre este website um vídeo de 2 minutos a mostrar o website, seu leyout, mostrar a responsividade deste, a falar sobre as tecnicas empregues. Mostre também o HTML, a sua estrutura, e o ficheiro CSS, explicando alguns seletores e seus efeitos na renderização final. Para fazer o vídeo pode usar por exemplo a aplicação OBS.
+
+
+## SUBMISSÃO
+
+O projeto deverá estar concluido na semana de 12 de abril, sendo avaliado na aula prática.
+
