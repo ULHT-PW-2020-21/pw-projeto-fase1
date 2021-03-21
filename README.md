@@ -1,6 +1,6 @@
 **UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
  
-# Programação Web - P1: Projeto fase 1: website responsivo 
+# Programação Web - Projeto Fase 1 (P1): website responsivo 
 
 ## ENQUADRAMENTO
 Nesta UC desenvolverá um projeto de uma aplicação Web sobre um tópico à sua escolha. Este estará dividido em três fases de desenvolvimento, P1, P2 e P3:
