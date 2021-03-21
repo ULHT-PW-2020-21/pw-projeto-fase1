@@ -9,9 +9,9 @@ Nesta UC desenvolverá um projeto de uma aplicação Web sobre um tópico à sua
 * **P3:Aplicação Web full-stack**: aplicação Web desenvolvida em P2 estendida com funcionalidades do lado do cliente para renderização de algumas páginas usando JavaScript. A aplicação ficará com uma arquitetura híbrida, com partes em frontend e outras backend. Será feita integração com Web Services.
 
 ## OBJECTIVOS
-* O projeto P1 consiste na criação de um website sobre um tópico à vossa escolha.
+* O projeto P1 consiste na criação de um website estático sobre um tópico à vossa escolha.
 * Deverá demonstrar os conhecimentos adquiridos sobre HTML e CSS.  
-* Os conteúdos e o CSS deverão ser totalmente desenvolvidos pelo grupo, não podendo usar Bootstrap nem JavaScript. 
+* Os conteúdos e o CSS deverão ser totalmente desenvolvidos pelo grupo, não podendo usar Bootstrap nem JavaScript nesta fase.
 
 ## REQUISITOS
 O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
@@ -39,10 +39,10 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 * **R18.	Videos e áudios**: Deverá incluir vídeos do Youtube através de iframes. Inclua na página sobre este website um vídeo de 2 minutos a mostrar o website e a falar sobre as tecnicas empregues. Mostre o HTML e CSS.
 * **R19.	Links**: Inclua links para outras páginas.
 * **R20. Técnicas usadas**: uma das páginas deverá ser sobre o website em si, decrevendo em detalhe as técnicas usadas para desenvolvimento da aplicação. 
-* **R21.	Layouts**: colocar na página sobre o website uma secção sobre os layouts. Deverá incluir ilustrações e explicar os layouts que definiu para PC e telemóvel (podem ser desenhos de esboços do layout apenas com caixas). Estes deverão ser feitos antes da implementação.
-* **R22.	Mapa do website**: incluir na página sobre o website o desenho da árvore das páginas do seu website, expansão completa do menu e todos submenus (com tudo aberto).
+* **R21.	Mapa do website**: incluir na página sobre o website o desenho da árvore das páginas do seu website, expansão completa do menu e todos submenus (com tudo aberto).
+* **R22.	Layouts**: colocar na página sobre o website uma secção sobre os layouts. Deverá incluir ilustrações e explicar os layouts que definiu para PC e telemóvel (podem ser desenhos de esboços do layout apenas com caixas). Estes deverão ser feitos antes da implementação.
 * **R23.	Tabela de inventário**: incluir na página sobre o website uma tabela que lista quantas páginas tem o website, quantas imagens, quantos links externos, quantos vídeos e animações.
-* **R24. Tecnicas usadas**: Na página sobre o website deverá integrar uma tabela com as técnicas usadas. Deverá detalhar todas as etiquetas HTML5 semânticas usadas, seletores e propriedades CSS, media queries, tipos de display usados, animações, efeitos, etc. Inclua os requisitos técnicos listados neste enunciado. Apresenta-se em baixo um exemplo de parte da tabela:
+* **R24. Técnicas usadas**: Na página sobre o website deverá integrar uma tabela com as técnicas usadas. Deverá detalhar todas as etiquetas HTML5 semânticas usadas, seletores e propriedades CSS, media queries, tipos de display usados, animações, efeitos, etc. Inclua os requisitos técnicos listados neste enunciado. Apresenta-se em baixo um exemplo de parte da tabela:
 
 | Carateristicas | Elementos/técnicas | Exemplos |
 | --- | --- | --- |
