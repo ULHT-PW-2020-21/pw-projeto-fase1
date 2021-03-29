@@ -68,7 +68,7 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
   
 ## SUBMISSÃO e AVALIAÇÃO
 
-O prazo de entrega do projeto é 12 de abril.
+O prazo de entrega do projeto é 12 de abril, submeter no Moodle em atividade a divulgar.
 
 A avaliação do projeto terá duas componentes:
 * avaliação pelos docentes, baseada nos requisitos listados anteriormente (60%).
