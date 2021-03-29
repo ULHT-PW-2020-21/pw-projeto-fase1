@@ -14,7 +14,7 @@ Nesta UC desenvolverá um projeto de uma aplicação Web sobre um tópico à vos
 * Os conteúdos e o CSS deverão ser totalmente desenvolvidos pelo grupo, não podendo usar Bootstrap nem JavaScript nesta fase.
 
 
-## PREREQUISITOS
+## PRÉ-REQUISITOS
 * O projeto deve ser realizado em grupos de 2. Excepcionalmente, mediante aprovação do docente, poderá ser realizado individualmente.
 * Registe no [formulário](https://docs.google.com/forms/d/1_hYd38F1FvIjiKH10Lz0TQBYs3qkST1no7nGfbf92XI/edit?usp=sharing) o nome e numero dos membros do grupo, assim como link do repositório GitHub do projeto.
 
