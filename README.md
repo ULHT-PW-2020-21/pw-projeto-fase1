@@ -41,7 +41,7 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 * **R21.	Efeitos em imagens**: Estilize imagens através de efeitos CSS.
 * **R22.	Videos e áudios**: Deverá incluir vídeos do Youtube através de iframes. Inclua na página sobre este website um vídeo de 2 minutos a mostrar o website (veja detalhes em R30).
 * **R23. Formulário**: Crie um formulário explorando os vários tipos de input existentes. Quando submetido deverá ser enviado para um endereço de email. Estilize o formulario usando o CSS.
-* **R24.	Links**: Inclua links para outras páginas.
+* **R24.	Links**: Inclua links para páginas externas ao seu website, relacionadas com o tópico.
 * **R25. Técnicas usadas**: uma das páginas deverá ser sobre o website em si, decrevendo em detalhe as técnicas usadas para desenvolvimento da aplicação. 
 * **R26.	Mapa do website**: incluir na página sobre o website o desenho da árvore das páginas do seu website, expansão completa do menu e todos submenus (com tudo aberto).
 * **R27.	Layouts**: colocar na página sobre o website uma secção sobre os layouts. Deverá incluir ilustrações e explicar os layouts que definiu para PC e telemóvel (podem ser desenhos de esboços do layout apenas com caixas). Estes deverão ser feitos antes da implementação.
