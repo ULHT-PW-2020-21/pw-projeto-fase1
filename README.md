@@ -27,7 +27,7 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 * **R3.	Estrutura**: O website deverá ter pelo menos 5 páginas Web. As imagens deverão estar numa pasta images.
 * **R4.	No GitHub e online no Heroku**: O website deverá estar num repositório GitHub, e sincronizado e a correr no Heroku.
 * **R5.	HTML5**: Todos os ficheiros HTML deverão estar no formato HTML5 e o head adequadamente formatado e detalhado. Utilize pelo menos 7 etiquetas HTML5 (article, main, nav, aside, header, footer, figure). Evitar a utilização das etiquetas div e span.
-* **R5.	Layout CSS Grid**: O website deverá ter os seus layouts construídos com CSS grid e Flexbox.
+* **R5.	Layout CSS Grid**: O website deverá ter os seus layouts construídos com CSS grid e Flexbox. Conheça os [layouts básicos](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Common_web_layouts) e alguns [princípios](https://www.creativebloq.com/netmag/create-balanced-page-layouts-7-pro-tips-121310009) para criar um layout balanceado.
 * **R6.	Layout Fluido e responsivo**: O layout deverá ser flúido e responsivo, usando media queries, com layouts consoante a dimensão do ecrã (PC ou smartphone), considerando também a possiblidade de o telemóvel estar em orientação portrait ou landscape. Todos os conteúdos deverão adaptar-se de forma responsiva. Nunca deverão aparecer scrollbars horizontais ou verticais.
 * **R7. Elemento head**: tenha o head formatado com detalhe em cada ficheiro, com pelo menos 4 etiquetas meta a descrever detalhes.
 * **R8. Barra de navegação**: especifique um titulo (elemento <title> do head) e crie um ícone para a barra de navegação.
