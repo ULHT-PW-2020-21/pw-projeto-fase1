@@ -56,7 +56,7 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 | Etiquetas | HTML5	main, header, article, footer, figure... |
 | Animações | Foram feitas animações usando keyframes que permite … | ... |
 
-* **R30.	Video de apresentação**: Inclua na página sobre este website um vídeo de 2 minutos sem som a mostrar o website, seu layout, mostrar a responsividade deste, técnicas empregues, evidenciando aspectos diferenciadores que empregou. Mostre também o HTML, a sua estrutura, e o ficheiro CSS, explicando alguns seletores e seus efeitos na renderização final. Para fazer o vídeo pode usar por exemplo a aplicação OBS. Carregue o video no Youtube, disponibilizando-o no website num iframe.
+* **R30.	Video de apresentação**: Inclua na página sobre este website um vídeo de 2 minutos sem som a mostrar o website, seu layout, mostrar a responsividade deste, técnicas empregues, evidenciando aspectos diferenciadores que empregou. Mostre também o HTML, a sua estrutura, evidenciando como está simples e claro, e mostre também o CSS, com o uso de diversos tipos de seletores, media queries, etc. Para fazer o vídeo pode usar por exemplo a aplicação OBS. Carregue o video no Youtube, disponibilizando-o no website num iframe.
 
 * **R31.	Anonimato**: Não deverá haver no projeto nem link referências aos nomes dos autores do projeto, visto haver uma componente de avaliação anónima que será feita pelos pares.
   
