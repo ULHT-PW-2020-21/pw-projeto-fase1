@@ -3,7 +3,7 @@
 # Programação Web - Projeto Fase 1 (P1): Website Responsivo 
 
 ## ENQUADRAMENTO
-Nesta UC desenvolverá um projeto de uma aplicação Web sobre um tópico à sua escolha. Este estará dividido em três fases de desenvolvimento, P1, P2 e P3:
+Nesta UC desenvolverá um projeto de uma aplicação Web sobre um tópico à vossa escolha. Este estará dividido em três fases de desenvolvimento, P1, P2 e P3:
 * **P1: Website**: website que permite a navegação entre um conjunto de páginas Web com conteúdos digitais estáticos (não se atualizando dinâmicamente) constituídos por texto, imagens, video e audio. O seu design deverá ser responsivo ao tamanho do ecrã. Deverá ser desenvolvido usado exclusivamente HTML e CSS.
 * **P2: Aplicação Web**: aplicação Web desenvolvida do lado do servidor com Django que, tendo como base o website estático desenvolvido em P1, integra elementos iterativos e funcionalidades. Acedida através de um browser, a aplicação estará ligada a uma base de dados integrada que permite uma experiencia interativa especifica ao indivídio que a usa. Deverá permitir referenciar, guardar e aceder a dados através de interfaces customizados. A renderização será feita no backend, recorrendo a templates para layout. Deverá ser desenvolvida em Django, usando Python, que entre outras funcionalidades manipulará uma base de dados interna. 
 * **P3:Aplicação Web full-stack**: aplicação Web desenvolvida em P2 estendida com funcionalidades do lado do cliente para renderização de algumas páginas usando JavaScript. A aplicação ficará com uma arquitetura híbrida, com partes em frontend e outras backend. Será feita integração com Web Services.
@@ -12,6 +12,12 @@ Nesta UC desenvolverá um projeto de uma aplicação Web sobre um tópico à sua
 * O projeto P1 consiste na criação de um website estático sobre um tópico à vossa escolha.
 * Deverá demonstrar os conhecimentos adquiridos sobre HTML e CSS.  
 * Os conteúdos e o CSS deverão ser totalmente desenvolvidos pelo grupo, não podendo usar Bootstrap nem JavaScript nesta fase.
+
+
+## PREREQUISITOS
+* O projeto deve ser realizado em grupos de 2. Excepcionalmente, mediante aprovação do docente, poderá ser realizado individualmente.
+* Registe no [formulário](https://docs.google.com/forms/d/1_hYd38F1FvIjiKH10Lz0TQBYs3qkST1no7nGfbf92XI/edit?usp=sharing) o nome e numero dos membros do grupo, assim como link do repositório GitHub do projeto.
+
 
 ## REQUISITOS PARA REALIZAÇÃO DO PROJETO
 O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
