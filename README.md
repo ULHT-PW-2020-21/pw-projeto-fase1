@@ -39,7 +39,7 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 * **R19. Wordcloud**: Crie uma wordcloud com hiperlinks em algumas das palavras, usando SVG.
 * **R20. Icons**: Utilize ícones no website (por exemplo nos menus, títulos, no texto, etc).
 * **R21.	Efeitos em imagens**: Estilize imagens através de efeitos CSS.
-* **R22.	Videos e áudios**: Deverá incluir vídeos do Youtube através de iframes. Inclua na página sobre este website um vídeo de 2 minutos a mostrar o website e a falar sobre as tecnicas empregues. Mostre o HTML e CSS.
+* **R22.	Videos e áudios**: Deverá incluir vídeos do Youtube através de iframes. Inclua na página sobre este website um vídeo de 2 minutos a mostrar o website (veja detalhes em R30).
 * **R23. Formulário**: Crie um formulário explorando os vários tipos de input existentes. Quando submetido deverá ser enviado para um endereço de email. Estilize o formulario usando o CSS.
 * **R24.	Links**: Inclua links para outras páginas.
 * **R25. Técnicas usadas**: uma das páginas deverá ser sobre o website em si, decrevendo em detalhe as técnicas usadas para desenvolvimento da aplicação. 
@@ -56,7 +56,7 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 | Etiquetas | HTML5	main, header, article, footer, figure... |
 | Animações | Foram feitas animações usando keyframes que permite … | ... |
 
-* **R30.	Video de apresentação**: Inclua na página sobre este website um vídeo de 2 minutos a mostrar o website, seu layout, mostrar a responsividade deste, técnicas empregues, evidenciando aspectos diferenciadores que empregou. Mostre também o HTML, a sua estrutura, e o ficheiro CSS, explicando alguns seletores e seus efeitos na renderização final. Para fazer o vídeo pode usar por exemplo a aplicação OBS. Carregue o video no Youtube, disponibilizando-o no website num iframe.
+* **R30.	Video de apresentação**: Inclua na página sobre este website um vídeo de 2 minutos sem som a mostrar o website, seu layout, mostrar a responsividade deste, técnicas empregues, evidenciando aspectos diferenciadores que empregou. Mostre também o HTML, a sua estrutura, e o ficheiro CSS, explicando alguns seletores e seus efeitos na renderização final. Para fazer o vídeo pode usar por exemplo a aplicação OBS. Carregue o video no Youtube, disponibilizando-o no website num iframe.
 
 * **R31.	Anonimato**: Não deverá haver no projeto nem link referências aos nomes dos autores do projeto, visto haver uma componente de avaliação anónima que será feita pelos pares.
   
