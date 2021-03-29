@@ -16,7 +16,7 @@ Nesta UC desenvolverá um projeto de uma aplicação Web sobre um tópico à vos
 
 ## PRÉ-REQUISITOS
 * O projeto deve ser realizado em grupos de 2. Excepcionalmente, mediante aprovação do docente, poderá ser realizado individualmente.
-* Registe no [formulário](https://docs.google.com/forms/d/1_hYd38F1FvIjiKH10Lz0TQBYs3qkST1no7nGfbf92XI/edit?usp=sharing) o nome e numero dos membros do grupo, assim como link do repositório GitHub do projeto.
+* 🆕 Registe no [formulário](https://docs.google.com/forms/d/1_hYd38F1FvIjiKH10Lz0TQBYs3qkST1no7nGfbf92XI/edit?usp=sharing) o nome e numero dos membros do grupo, assim como link do repositório GitHub do projeto.
 
 
 ## REQUISITOS PARA REALIZAÇÃO DO PROJETO
@@ -27,15 +27,15 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 * **R3.	Estrutura**: O website deverá ter pelo menos 5 páginas Web. As imagens deverão estar numa pasta images.
 * **R4.	No GitHub e online no Heroku**: O website deverá estar num repositório GitHub, e sincronizado e a correr no Heroku.
 * **R5.	HTML5**: Todos os ficheiros HTML deverão estar no formato HTML5 e o head adequadamente formatado e detalhado. Utilize pelo menos 7 etiquetas HTML5 (article, main, nav, aside, header, footer, figure). Evitar a utilização das etiquetas div e span.
-* **R5.	Layout CSS Grid**: O website deverá ter os seus layouts construídos com CSS grid e Flexbox. Conheça os [layouts básicos](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Common_web_layouts) e alguns [princípios](https://www.creativebloq.com/netmag/create-balanced-page-layouts-7-pro-tips-121310009) para criar um layout balanceado.
-* **R6.	Layout Fluido e responsivo**: O layout deverá ser flúido e responsivo, usando media queries, com layouts consoante a dimensão do ecrã (PC ou smartphone), considerando também a possiblidade de o telemóvel estar em orientação portrait ou landscape. Todos os conteúdos deverão adaptar-se de forma responsiva. Nunca deverão aparecer scrollbars horizontais ou verticais.
+* **R5.	Layout CSS Grid**: O website deverá ter os seus layouts construídos com CSS grid e Flexbox. 🆕 Explore os [layouts básicos](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Common_web_layouts) e alguns [princípios](https://www.creativebloq.com/netmag/create-balanced-page-layouts-7-pro-tips-121310009) para criar um layout balanceado.
+* **R6.	Layout Fluido e responsivo**: O layout deverá ser flúido e responsivo, usando media queries, com layouts consoante a dimensão do ecrã (PC ou smartphone), considerando também a possiblidade de o telemóvel estar em orientação portrait ou landscape. Todos os conteúdos deverão adaptar-se de forma responsiva. Evite scrollbars horizontais ou verticais.
 * **R7. Elemento head**: tenha o head formatado com detalhe em cada ficheiro, com pelo menos 4 etiquetas meta a descrever detalhes.
 * **R8. Barra de navegação**: especifique um titulo (elemento <title> do head) e crie um ícone para a barra de navegação.
 
 * **R9. Menu**: Crie um menu de navegação configurando com pseudo-classes os links.
 * **R10. CSS**: Deverá usar um único ficheiro CSS externo para estilizar as páginas do website. Deverá utilizar todos os tipos de selectores e deverá fazer composição de seletores. Deverá usar o maior número de propriedades. Os conteúdos das páginas deverão estar estilizados usando CSS, demonstrando todos os conhecimentos adquiridos até agora sobre HTML e CSS. 
 * **R11.	Fonte**: Deverá usar uma fonte web Google ( https://fonts.google.com/ ) [1] que disponibiliza uma grande variedade de fontes que funcionam garantidamente [2] em todos os browsers. 
-* **R12.	Cores**: Deverá ter uma coerência de estilo em todas as páginas, usando uma palete de cores de forma coerente em todas as páginas. Explore por exemplo a ferramenta [Paletton](https://paletton.com/).
+* **R12.	Cores**: Deverá ter uma coerência de estilo em todas as páginas, usando uma palete de cores de forma coerente em todas as páginas. 🆕 Explore por exemplo a ferramenta [Paletton](https://paletton.com/).
 * **R13.	Imagens documentadas**: Todas as imagens deverão estar dentro duma etiqueta figure e ter uma legenda (figcaption) com um título e hiperlink para a fonte de onde foram retiradas. Nalgumas, inclua detalhes dentro de uma etiqueta HTML `<details>`.
 * **R14. Estilização de imagens**: Insira algumas imagens, aplicando a técnica de sobreposição de imagens e texto umas por cima das outras, recorrendo a posições absolutas e relativas. Explore também com a propriedade sticky e fixed, em imagens a colocar no background.
 * **R15.	Tamanho de Imagens** cada imagem não deverá exceder 100kB. Deverão ser processadas para ficar pequenas, usando por exemplo o Paint.Net, existindo versões diferentes para desktop e telemóvel.
@@ -62,7 +62,7 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
 | Etiquetas | HTML5	main, header, article, footer, figure... |
 | Animações | Foram feitas animações usando keyframes que permite … | ... |
 
-* **R30.	Video de apresentação**: Inclua na página sobre este website um vídeo de 2 minutos sem som a mostrar o website, seu layout, mostrar a responsividade deste, técnicas empregues, evidenciando aspectos diferenciadores que empregou. Mostre também o HTML, a sua estrutura, evidenciando como está simples e claro, e mostre também o CSS, com o uso de diversos tipos de seletores, media queries, etc. Para fazer o vídeo pode usar por exemplo a aplicação OBS. Carregue o video no Youtube, disponibilizando-o no website num iframe.
+* **R30.	Video de apresentação**: Inclua na página sobre este website um vídeo de 2 minutos 🆕 sem som a mostrar o website, seu layout, mostrar a responsividade deste, técnicas empregues, evidenciando aspectos diferenciadores que empregou. Mostre também o HTML, a sua estrutura, evidenciando como está simples e claro, e mostre também o CSS, com o uso de diversos tipos de seletores, media queries, etc. Para fazer o vídeo pode usar por exemplo a aplicação OBS. Carregue o video no Youtube, disponibilizando-o no website num iframe.
 
 * **R31.	Anonimato**: Não deverá haver no projeto nem link referências aos nomes dos autores do projeto, visto haver uma componente de avaliação anónima que será feita pelos pares.
   
