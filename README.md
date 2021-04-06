@@ -67,9 +67,9 @@ O website desenvolvido deverá satisfazer os requisitos (R) que se seguem:
   
 ## SUBMISSÃO e AVALIAÇÃO
 
-O prazo de entrega do projeto é 12 de abril:
+Submissão:
+* O prazo de entrega do projeto é 12 de abril
 * 🆕 Registe no [formulário](https://docs.google.com/forms/d/1_hYd38F1FvIjiKH10Lz0TQBYs3qkST1no7nGfbf92XI/edit?usp=sharing) o nome e o número dos membros do grupo, assim como link do repositório GitHub do projeto.
-* submeta no Moodle, em atividade a divulgar, o link do github.
 
 A avaliação do projeto terá duas componentes:
 * avaliação pelos docentes, baseada nos requisitos listados anteriormente (60%).
