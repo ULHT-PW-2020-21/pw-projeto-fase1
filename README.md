@@ -71,6 +71,6 @@ Submissão:
 * O prazo de entrega do projeto é 12 de abril
 * 🆕 Registe no [formulário](https://docs.google.com/forms/d/1_hYd38F1FvIjiKH10Lz0TQBYs3qkST1no7nGfbf92XI/edit?usp=sharing) o nome e o número dos membros do grupo, assim como link do repositório GitHub do projeto.
 
-A avaliação do projeto terá duas componentes:
-* avaliação pelos docentes, baseada nos requisitos listados anteriormente (60%).
-* avaliação por pares, feita por colegas, de acordo com um conjunto de critérios que serão explicitados (40%).
+A avaliação final terá duas componentes:
+* avaliação do projeto por pares (colegas e docentes) baseada nos requisitos listados anteriormente (80%).
+* avaliação das avaliações feitas pelo grupo (20%).
